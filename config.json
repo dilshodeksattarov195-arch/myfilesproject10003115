@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcarse",
+        "uuid": 31156230,
+        "checksum": "ph53e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
